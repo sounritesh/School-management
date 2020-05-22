@@ -1,1 +1,2 @@
 # School-management
+This is my high school project using C++. It can generate a time-table for a given class' subjects. It can also generate the time table for a teacher given the subjects the teacher teaches. It can also assign replacement teachers whenever required to cover the absence of a teacher taking into consideration the teacher and class time tables. All the data is not temporary and is stored in files.
